@@ -94,6 +94,7 @@ This project could use some improvements in the following areas:
 ### Something more:
 Need to have multiple disassembler backends,say capstone and atleast one more disassembler(not IDA).
 In the GUI , have basic settings and expert settings. Basic settings should include customising the visual layout of the decomipled code, degree of rigor in decompilation(0 to 10, 0 implying no decomipplation at all and 10 being maximum decompilation)
-Need a SSA library. Also Read the following two pages:
+Need a SSA library. Also Read the following :
 http://rg-master.cs.uni-sb.de/publikationen/UD11.pdf (Formal Specification of the x86 Instruction Set Architecture (Thesis, Ulan Degenbaev) [PDF])
 https://www.reddit.com/r/ReverseEngineering/comments/1b5zbt/an_antlr_grammar_to_parse_x86_assembler/ (an ANTLR grammar to parse x86 assembler instructions) 
+https://bitbucket.org/mrexodia/xedparse

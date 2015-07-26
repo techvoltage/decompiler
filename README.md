@@ -90,3 +90,7 @@ This project could use some improvements in the following areas:
 * add a GUI for renaming variables, inverting if-else branches, and other easy things.
 * when possible, functions called from the one being decompiled should be analysed to determine function arguments and restored registers.
 
+
+Something more:
+Need to have multiple disassembler backends,say capstone and atleast one more disassembler.
+In the GUI , have basic settings and expert settings. Basic settings should include customising the visual layout of the decomipled code, degree of rigor in decompilation(0 to 10, 0 implying no decomipplation at all and 10 being maximum decompilation)

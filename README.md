@@ -8,6 +8,8 @@ A multi-backends decompiler written in python. It currently supports IDA and Cap
 Install [Capstone](http://capstone-engine.org/)'s Python bindings like followings:
 
     $ sudo pip install capstone
+Install ply
+    https://github.com/dabeaz/ply
 
 Then try out the decompiler:
 
